@@ -1,0 +1,9 @@
+{
+	"name": "Mouniadf11",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "09a508e8-a79f-43c3-9e90-c7be4aa13f47",
+		"tenantId": "6e5e783a-dbea-40ce-a18a-da29afbc27e3"
+	}
+}
